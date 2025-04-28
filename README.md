@@ -2,7 +2,7 @@
 
 A transition that moves an image in frames (image copies/repetitions) on a path.
 
-![Image Title](https://generative-placeholders.glitch.me/image?width=800&height=600")
+![Image Title](https://tympanus.net/codrops/wp-content/uploads/2025/04/RepetitionEffect_featured-2.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=92571)
 
